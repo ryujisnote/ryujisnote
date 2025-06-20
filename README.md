@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 こんにちは、ryujisnote です！
 
-<!--
-**ryujisnote/ryujisnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+元インフラエンジニアです、主に**趣味のツールやスクリプト**を公開しています。
 
-Here are some ideas to get you started:
+## 🛠 主に置いているもの（予定も含む
+- Docker Compose ファイル
+- Bash などのちょっとしたスクリプト
+- その他インフラ関連のTipsやメモ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 ポリシー
+- 気軽にご利用・ご意見ください！
+
+## 🌐 SNS
+- [X (Twitter): @ryujisnote](https://x.com/ryujisnote)
+
+---
+
+気になることがあれば、ぜひSNSでもお気軽にご連絡ください！
